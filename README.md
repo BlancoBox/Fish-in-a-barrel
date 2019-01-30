@@ -1,2 +1,2 @@
 # Fish-in-a-barrel
-Endless runner
+Endless runner game using unity3d alowing me to hone my C# skill
